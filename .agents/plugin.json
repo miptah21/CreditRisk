@@ -1,0 +1,61 @@
+{
+  "name": "init-dataops",
+  "version": "1.0.0",
+  "description": "DataOps infrastructure agent skills for data pipeline orchestration, dbt development, Snowflake optimization, observability, FinOps, and governance. Managed via Antigravity.",
+  "author": {
+    "name": "Init-DataOps Team"
+  },
+  "repository": "https://github.com/miptah21/Init-DataOps",
+  "license": "MIT",
+  "keywords": [
+    "dataops",
+    "dbt",
+    "snowflake",
+    "airflow",
+    "data-engineering",
+    "data-pipelines",
+    "observability",
+    "finops",
+    "governance",
+    "agent-skills"
+  ],
+  "skills_count": 69,
+  "skill_categories": {
+    "dbt_snowflake": [
+      "creating-dbt-models",
+      "debugging-dbt-errors",
+      "developing-incremental-models",
+      "documenting-dbt-models",
+      "migrating-sql-to-dbt",
+      "refactoring-dbt-models",
+      "testing-dbt-models",
+      "finding-expensive-queries",
+      "optimizing-query-by-id",
+      "optimizing-query-text"
+    ],
+    "orchestration": [
+      "pipeline-orchestration",
+      "airflow",
+      "authoring-dags",
+      "debugging-dags",
+      "testing-dags",
+      "deploying-airflow"
+    ],
+    "dataops": [
+      "senior-data-engineer",
+      "data-observability",
+      "data-governance",
+      "cloud-finops",
+      "rca-diagnostics"
+    ],
+    "software_engineering": [
+      "python-expert",
+      "ci-cd-pipeline-builder",
+      "clean-code",
+      "tech-debt-tracker",
+      "dependency-auditor",
+      "performance-profiler",
+      "git-workflow"
+    ]
+  }
+}

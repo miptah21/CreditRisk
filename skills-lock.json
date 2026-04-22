@@ -1,0 +1,543 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-04-22T07:08:00Z",
+  "totalSkills": 69,
+  "skills": {
+    "agentic-eval": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "research",
+      "status": "active",
+      "size": 5940
+    },
+    "airflow": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 12532
+    },
+    "airflow-hitl": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 8622
+    },
+    "airflow-plugins": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 24885
+    },
+    "analyzing-data": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "analysis",
+      "status": "active",
+      "size": 4177
+    },
+    "analyzing-financial-statements": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "financial",
+      "status": "active",
+      "size": 2479
+    },
+    "annotating-task-lineage": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 11738
+    },
+    "authoring-dags": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 7186
+    },
+    "blueprint": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 15085
+    },
+    "canvas-design": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 11939
+    },
+    "checking-freshness": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 3310
+    },
+    "ci-cd-pipeline-builder": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 4072
+    },
+    "clean-code": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 6676
+    },
+    "cloud-finops": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "dataops",
+      "status": "active",
+      "version": "2.0.0",
+      "scope": "infrastructure-level costs only (NOT query-level)",
+      "size": 2195
+    },
+    "cosmos-dbt-core": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "cosmos",
+      "status": "active",
+      "size": 13762
+    },
+    "cosmos-dbt-fusion": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "cosmos",
+      "status": "active",
+      "size": 7380
+    },
+    "creating-dbt-models": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 4081
+    },
+    "creating-financial-models": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "financial",
+      "status": "active",
+      "size": 5107
+    },
+    "creating-openlineage-extractors": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 13575
+    },
+    "data-governance": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "dataops",
+      "status": "active",
+      "version": "2.0.0",
+      "scope": "RBAC, data contracts, compliance (NOT dbt documentation)",
+      "size": 2206
+    },
+    "data-observability": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "dataops",
+      "status": "active",
+      "version": "2.0.0",
+      "scope": "Great Expectations, Soda, schema drift (NOT dbt tests)",
+      "size": 2107
+    },
+    "data-storytelling": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "analysis",
+      "status": "active",
+      "size": 12192
+    },
+    "data-visualization": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "analysis",
+      "status": "active",
+      "invocable": false,
+      "size": 11051
+    },
+    "debugging-dags": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 4311
+    },
+    "debugging-dbt-errors": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 4701
+    },
+    "deep-research": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "research",
+      "status": "active",
+      "size": 6995
+    },
+    "dependency-auditor": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 4561
+    },
+    "deploying-airflow": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 11465
+    },
+    "developing-incremental-models": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "references": ["references/STRATEGY_EXAMPLES.md"],
+      "size": 8005
+    },
+    "documenting-dbt-models": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 2659
+    },
+    "docx": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 20084
+    },
+    "excalidraw-diagram-generator": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 23798
+    },
+    "finding-expensive-queries": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "snowflake",
+      "status": "active",
+      "references": ["references/THRESHOLDS.md"],
+      "size": 3429
+    },
+    "git-workflow": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 1911
+    },
+    "knowledge-synthesis": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "research",
+      "status": "active",
+      "invocable": false,
+      "size": 8526
+    },
+    "managing-astro-deployments": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 6753
+    },
+    "managing-astro-local-env": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 8228
+    },
+    "migrating-airflow-2-to-3": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 9328
+    },
+    "migrating-sql-to-dbt": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 2742
+    },
+    "optimizing-query-by-id": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "snowflake",
+      "status": "active",
+      "size": 3598
+    },
+    "optimizing-query-text": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "snowflake",
+      "status": "active",
+      "size": 4754
+    },
+    "pdf": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 8072
+    },
+    "performance-profiler": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 4447
+    },
+    "pipeline-orchestration": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "dataops",
+      "status": "active",
+      "version": "2.0.0",
+      "scope": "NON-Airflow only (Dagster, Prefect, custom)",
+      "size": 1725
+    },
+    "powerbi-modeling": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "analysis",
+      "status": "active",
+      "size": 5979
+    },
+    "pptx": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 9182
+    },
+    "prd": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 4307
+    },
+    "profiling-tables": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 4012
+    },
+    "python-expert": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 5441
+    },
+    "rca-diagnostics": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "dataops",
+      "status": "active",
+      "version": "2.0.0",
+      "scope": "cross-system incidents only (NOT single DAG/dbt errors)",
+      "size": 2276
+    },
+    "reconciliation": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "financial",
+      "status": "active",
+      "size": 8144
+    },
+    "refactoring-dbt-models": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 3333
+    },
+    "search-strategy": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "research",
+      "status": "active",
+      "invocable": false,
+      "size": 7198
+    },
+    "senior-data-engineer": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "dataops",
+      "status": "active",
+      "invocable": false,
+      "note": "Background knowledge only — do not invoke directly",
+      "size": 5397
+    },
+    "setting-up-astro-project": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 2992
+    },
+    "sql-optimization": {
+      "source": "init-dataops",
+      "sourceType": "custom",
+      "category": "deprecated",
+      "status": "deprecated",
+      "invocable": false,
+      "redirectsTo": ["optimizing-query-text", "optimizing-query-by-id", "sql-queries"],
+      "note": "Superseded by AltimateAI Snowflake skills",
+      "size": 840
+    },
+    "sql-queries": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "dataops",
+      "status": "active",
+      "invocable": false,
+      "size": 11126
+    },
+    "statistical-analysis": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "analysis",
+      "status": "active",
+      "invocable": false,
+      "size": 10434
+    },
+    "tech-debt-tracker": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 5168
+    },
+    "testing-dags": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 11045
+    },
+    "testing-dbt-models": {
+      "source": "altimateai",
+      "sourceType": "github",
+      "repository": "AltimateAI/data-engineering-skills",
+      "category": "dbt",
+      "status": "active",
+      "size": 3297
+    },
+    "tracing-downstream-lineage": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 5137
+    },
+    "tracing-upstream-lineage": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 4637
+    },
+    "troubleshooting-astro-deployments": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "airflow",
+      "status": "active",
+      "size": 8876
+    },
+    "uv-package-manager": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 7113
+    },
+    "variance-analysis": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "financial",
+      "status": "active",
+      "size": 11232
+    },
+    "warehouse-init": {
+      "source": "astronomer.io",
+      "sourceType": "well-known",
+      "category": "lineage",
+      "status": "active",
+      "size": 11063
+    },
+    "worktree-manager": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "engineering",
+      "status": "active",
+      "size": 21649
+    },
+    "xlsx": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "category": "document",
+      "status": "active",
+      "size": 11463
+    }
+  },
+  "categories": {
+    "airflow": {"count": 13, "description": "Apache Airflow & Astronomer Astro"},
+    "dbt": {"count": 7, "description": "dbt development (AltimateAI)"},
+    "snowflake": {"count": 3, "description": "Snowflake optimization (AltimateAI)"},
+    "dataops": {"count": 6, "description": "DataOps infrastructure & practices"},
+    "cosmos": {"count": 2, "description": "Astronomer Cosmos dbt-Airflow integration"},
+    "lineage": {"count": 7, "description": "Data lineage, freshness, profiling"},
+    "analysis": {"count": 5, "description": "Data analysis & visualization"},
+    "financial": {"count": 4, "description": "Financial analysis & reconciliation"},
+    "engineering": {"count": 8, "description": "Software engineering & CI/CD"},
+    "document": {"count": 7, "description": "Document generation (docx, pptx, pdf, xlsx)"},
+    "research": {"count": 3, "description": "Deep research & knowledge synthesis"},
+    "deprecated": {"count": 1, "description": "Redirects to specialized skills"}
+  },
+  "sources": {
+    "smithery.ai": {"count": 30, "description": "Smithery marketplace skills"},
+    "astronomer.io": {"count": 19, "description": "Astronomer/Airflow ecosystem skills"},
+    "altimateai": {"count": 10, "description": "AltimateAI dbt/Snowflake skills (MIT)"},
+    "init-dataops": {"count": 5, "description": "Custom project-specific skills (v2.0 narrowed)"},
+    "custom": {"count": 5, "description": "Locally authored skills"}
+  }
+}
